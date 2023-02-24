@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bb99977.css",
+    "main.js": "/static/js/main.ac4914a4.js",
+    "static/media/bootstrap-icons.woff": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/RobotoMono-MediumItalic.woff": "/static/media/RobotoMono-MediumItalic.175824281842bb99ed4f.woff",
+    "static/media/RobotoMono-SemiBoldItalic.woff": "/static/media/RobotoMono-SemiBoldItalic.2969e61ff82f7cde9ce0.woff",
+    "static/media/RobotoMono-LightItalic.woff": "/static/media/RobotoMono-LightItalic.6398632c4388fa034f67.woff",
+    "static/media/RobotoMono-ExtraLightItalic.woff": "/static/media/RobotoMono-ExtraLightItalic.f4ac867d3fd42c322616.woff",
+    "static/media/RobotoMono-BoldItalic.woff": "/static/media/RobotoMono-BoldItalic.aefcb57a1dd76e470b79.woff",
+    "static/media/RobotoMono-Italic.woff": "/static/media/RobotoMono-Italic.e4eeb3a97fa88f27a199.woff",
+    "static/media/RobotoMono-ThinItalic.woff": "/static/media/RobotoMono-ThinItalic.2195c4c62855b519f963.woff",
+    "static/media/RobotoMono-ExtraLight.woff": "/static/media/RobotoMono-ExtraLight.20a6aa56fd3fa850a6b9.woff",
+    "static/media/RobotoMono-Light.woff": "/static/media/RobotoMono-Light.2cd342f2c11b45dd1944.woff",
+    "static/media/RobotoMono-SemiBold.woff": "/static/media/RobotoMono-SemiBold.e5277f93017a45df9200.woff",
+    "static/media/RobotoMono-Medium.woff": "/static/media/RobotoMono-Medium.63c9982ca734f8dd2ea9.woff",
+    "static/media/RobotoMono-Bold.woff": "/static/media/RobotoMono-Bold.33270a238411b37edbff.woff",
+    "static/media/RobotoMono-Thin.woff": "/static/media/RobotoMono-Thin.3ac8490edb98d5fc6b2f.woff",
+    "static/media/RobotoMono-Regular.woff": "/static/media/RobotoMono-Regular.d15ae7dd2d4e47ee9ed3.woff",
+    "static/media/RobotoMono-SemiBoldItalic.woff2": "/static/media/RobotoMono-SemiBoldItalic.ea921f07e23c7a16d84e.woff2",
+    "static/media/RobotoMono-MediumItalic.woff2": "/static/media/RobotoMono-MediumItalic.2d5967fc657876e5540d.woff2",
+    "static/media/RobotoMono-LightItalic.woff2": "/static/media/RobotoMono-LightItalic.784ec177fe0536524ff5.woff2",
+    "static/media/RobotoMono-ExtraLightItalic.woff2": "/static/media/RobotoMono-ExtraLightItalic.9f4ff912032ebf4eabe7.woff2",
+    "static/media/RobotoMono-BoldItalic.woff2": "/static/media/RobotoMono-BoldItalic.8a14055d73ad197d704f.woff2",
+    "static/media/RobotoMono-Italic.woff2": "/static/media/RobotoMono-Italic.c6e059036b72b20bfe36.woff2",
+    "static/media/RobotoMono-ThinItalic.woff2": "/static/media/RobotoMono-ThinItalic.8b2cf49fca6c1b876c84.woff2",
+    "static/media/RobotoMono-ExtraLight.woff2": "/static/media/RobotoMono-ExtraLight.ba7b4f423acb4692d2a4.woff2",
+    "static/media/RobotoMono-Light.woff2": "/static/media/RobotoMono-Light.6aad7594d8540992ba75.woff2",
+    "static/media/RobotoMono-SemiBold.woff2": "/static/media/RobotoMono-SemiBold.1fff487ea1c5c8edea3c.woff2",
+    "static/media/RobotoMono-Medium.woff2": "/static/media/RobotoMono-Medium.82231ac16330360f2e1e.woff2",
+    "static/media/RobotoMono-Thin.woff2": "/static/media/RobotoMono-Thin.0e509f02da8f2923857e.woff2",
+    "static/media/RobotoMono-Bold.woff2": "/static/media/RobotoMono-Bold.ac022b89d7f2a2397bd6.woff2",
+    "static/media/RobotoMono-Regular.woff2": "/static/media/RobotoMono-Regular.c460abd4bbf649cf4e4b.woff2",
+    "index.html": "/index.html",
+    "main.5bb99977.css.map": "/static/css/main.5bb99977.css.map",
+    "main.ac4914a4.js.map": "/static/js/main.ac4914a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb99977.css",
+    "static/js/main.ac4914a4.js"
+  ]
+}
